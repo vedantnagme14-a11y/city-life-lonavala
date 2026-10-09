@@ -1,0 +1,382 @@
+[
+  {
+    "id": "bhaja-caves",
+    "name": "Bhaja Caves",
+    "category": "heritage",
+    "lat": 18.7343,
+    "lng": 73.47,
+    "price_level": 0,
+    "approx_cost_inr": 25,
+    "scores": {
+      "safety": 4,
+      "cleanliness": 3,
+      "affordability": 5,
+      "rating": 4.5,
+      "accessibility": 3
+    },
+    "tags": ["buddhist", "rock-cut", "history"],
+    "description": "Ancient rock-cut Buddhist caves, roughly 2,000 years old, reached by a short stair climb.",
+    "monsoon_restricted": false,
+    "note": "Steps get slippery in rain."
+  },
+  {
+    "id": "karla-caves",
+    "name": "Karla Caves",
+    "category": "heritage",
+    "lat": 18.7833,
+    "lng": 73.4708,
+    "price_level": 0,
+    "approx_cost_inr": 25,
+    "scores": {
+      "safety": 4,
+      "cleanliness": 3,
+      "affordability": 5,
+      "rating": 4.5,
+      "accessibility": 3
+    },
+    "tags": ["buddhist", "chaitya", "history"],
+    "description": "Famous rock-cut Buddhist cave complex with a large chaitya hall.",
+    "monsoon_restricted": false,
+    "note": "Climb of several hundred steps; carry water."
+  },
+  {
+    "id": "lohagad-fort",
+    "name": "Lohagad Fort",
+    "category": "heritage",
+    "lat": 18.7089,
+    "lng": 73.4777,
+    "price_level": 0,
+    "approx_cost_inr": 0,
+    "scores": {
+      "safety": 3,
+      "cleanliness": 3,
+      "affordability": 5,
+      "rating": 4.5,
+      "accessibility": 2
+    },
+    "tags": ["fort", "trek", "maratha"],
+    "description": "Hill fort with a moderate trek and valley views.",
+    "monsoon_restricted": false,
+    "note": "Crowded and slippery on monsoon weekends."
+  },
+  {
+    "id": "visapur-fort",
+    "name": "Visapur Fort",
+    "category": "heritage",
+    "lat": 18.719,
+    "lng": 73.487,
+    "price_level": 0,
+    "approx_cost_inr": 0,
+    "scores": {
+      "safety": 3,
+      "cleanliness": 2,
+      "affordability": 5,
+      "rating": 4.3,
+      "accessibility": 1
+    },
+    "tags": ["fort", "trek"],
+    "description": "Larger fort beside Lohagad with a steeper, less maintained trek.",
+    "monsoon_restricted": false,
+    "note": "Not suitable for small children or the elderly."
+  },
+  {
+    "id": "bhushi-dam",
+    "name": "Bhushi Dam",
+    "category": "attraction",
+    "lat": 18.7395,
+    "lng": 73.3945,
+    "price_level": 0,
+    "approx_cost_inr": 0,
+    "scores": {
+      "safety": 1,
+      "cleanliness": 2,
+      "affordability": 5,
+      "rating": 4.0,
+      "accessibility": 4
+    },
+    "tags": ["dam", "waterfall", "monsoon"],
+    "description": "Very popular monsoon picnic spot with stepped water cascades.",
+    "monsoon_restricted": true,
+    "note": "Site of a fatal 2024 waterfall tragedy; district prohibitory orders applied in monsoon. Do not enter flowing water."
+  },
+  {
+    "id": "lions-point",
+    "name": "Lion's Point",
+    "category": "attraction",
+    "lat": 18.7185,
+    "lng": 73.3763,
+    "price_level": 0,
+    "approx_cost_inr": 0,
+    "scores": {
+      "safety": 2,
+      "cleanliness": 3,
+      "affordability": 5,
+      "rating": 4.2,
+      "accessibility": 4
+    },
+    "tags": ["viewpoint", "sunset"],
+    "description": "Valley viewpoint popular at sunset.",
+    "monsoon_restricted": true,
+    "note": "Covered by monsoon prohibitory orders in 2024; stay behind railings, avoid selfies near edges."
+  },
+  {
+    "id": "tigers-leap",
+    "name": "Tiger's Leap (Tiger Point)",
+    "category": "attraction",
+    "lat": 18.7106,
+    "lng": 73.3729,
+    "price_level": 0,
+    "approx_cost_inr": 0,
+    "scores": {
+      "safety": 2,
+      "cleanliness": 3,
+      "affordability": 5,
+      "rating": 4.3,
+      "accessibility": 3
+    },
+    "tags": ["viewpoint", "cliff"],
+    "description": "Cliff viewpoint with extensive valley views.",
+    "monsoon_restricted": true,
+    "note": "Covered by monsoon prohibitory orders in 2024; fog and slippery rocks."
+  },
+  {
+    "id": "rajmachi-point",
+    "name": "Rajmachi Point",
+    "category": "attraction",
+    "lat": 18.735,
+    "lng": 73.38,
+    "price_level": 0,
+    "approx_cost_inr": 0,
+    "scores": {
+      "safety": 2,
+      "cleanliness": 3,
+      "affordability": 5,
+      "rating": 4.0,
+      "accessibility": 4
+    },
+    "tags": ["viewpoint"],
+    "description": "Viewpoint over the Rajmachi valley near Khandala.",
+    "monsoon_restricted": true,
+    "note": "Covered by monsoon prohibitory orders in 2024."
+  },
+  {
+    "id": "tungarli-lake",
+    "name": "Tungarli Lake",
+    "category": "attraction",
+    "lat": 18.76,
+    "lng": 73.379,
+    "price_level": 0,
+    "approx_cost_inr": 0,
+    "scores": {
+      "safety": 4,
+      "cleanliness": 3,
+      "affordability": 5,
+      "rating": 4.2,
+      "accessibility": 4
+    },
+    "tags": ["lake", "picnic", "family"],
+    "description": "Man-made lake and picnic spot that supplies part of the town's drinking water.",
+    "monsoon_restricted": false,
+    "note": "Safer alternative to Bhushi Dam for families; do not swim."
+  },
+  {
+    "id": "pavana-dam",
+    "name": "Pavana Dam",
+    "category": "attraction",
+    "lat": 18.6697,
+    "lng": 73.5144,
+    "price_level": 0,
+    "approx_cost_inr": 0,
+    "scores": {
+      "safety": 2,
+      "cleanliness": 3,
+      "affordability": 5,
+      "rating": 4.0,
+      "accessibility": 3
+    },
+    "tags": ["dam", "camping", "lake"],
+    "description": "Large reservoir popular for camping and lakeside stays.",
+    "monsoon_restricted": true,
+    "note": "Four drownings reported by Lonavala police from Jan 2024; avoid swimming."
+  },
+  {
+    "id": "wax-museum",
+    "name": "Wax Museum, Lonavala",
+    "category": "attraction",
+    "lat": 18.748,
+    "lng": 73.4035,
+    "price_level": 2,
+    "approx_cost_inr": 300,
+    "scores": {
+      "safety": 4,
+      "cleanliness": 4,
+      "affordability": 3,
+      "rating": 3.8,
+      "accessibility": 5
+    },
+    "tags": ["indoor", "family", "rainy-day"],
+    "description": "Indoor attraction, a good option when it rains.",
+    "monsoon_restricted": false,
+    "note": "Good rain-day backup."
+  },
+  {
+    "id": "maganlal-chikki",
+    "name": "Chikki shops, Main Bazaar",
+    "category": "food",
+    "lat": 18.7506,
+    "lng": 73.4066,
+    "price_level": 1,
+    "approx_cost_inr": 150,
+    "scores": {
+      "safety": 5,
+      "cleanliness": 4,
+      "affordability": 4,
+      "rating": 4.4,
+      "accessibility": 5
+    },
+    "tags": ["chikki", "sweets", "local", "veg"],
+    "description": "Lonavala's famous chikki (nut/jaggery candy) is sold in many shops on the main bazaar.",
+    "monsoon_restricted": false,
+    "note": "Check packaging dates when buying."
+  },
+  {
+    "id": "golden-vada-pav",
+    "name": "Golden Vada Pav",
+    "category": "food",
+    "lat": 18.75,
+    "lng": 73.407,
+    "price_level": 1,
+    "approx_cost_inr": 60,
+    "scores": {
+      "safety": 5,
+      "cleanliness": 3,
+      "affordability": 5,
+      "rating": 4.2,
+      "accessibility": 5
+    },
+    "tags": ["street-food", "vada-pav", "budget", "veg"],
+    "description": "Classic street-style vada pav for a quick budget snack.",
+    "monsoon_restricted": false,
+    "note": "Peak crowd on weekends."
+  },
+  {
+    "id": "maval-maratha-dhaba",
+    "name": "Maval Maratha Dhaba",
+    "category": "food",
+    "lat": 18.745,
+    "lng": 73.43,
+    "price_level": 2,
+    "approx_cost_inr": 300,
+    "scores": {
+      "safety": 4,
+      "cleanliness": 3,
+      "affordability": 4,
+      "rating": 4.2,
+      "accessibility": 4
+    },
+    "tags": ["maharashtrian", "spicy", "home-style"],
+    "description": "Home-style, spicy Maharashtrian food on the old highway side.",
+    "monsoon_restricted": false,
+    "note": "Spice level is high; ask for mild."
+  },
+  {
+    "id": "kinara-village-dhaba",
+    "name": "Kinara Village Dhaba",
+    "category": "food",
+    "lat": 18.737,
+    "lng": 73.443,
+    "price_level": 2,
+    "approx_cost_inr": 350,
+    "scores": {
+      "safety": 4,
+      "cleanliness": 3,
+      "affordability": 4,
+      "rating": 4.1,
+      "accessibility": 4
+    },
+    "tags": ["dhaba", "north-indian", "family"],
+    "description": "Village-themed dhaba near Vaksai Naka on the old Mumbai-Pune highway.",
+    "monsoon_restricted": false,
+    "note": "Good stop for groups driving the old highway."
+  },
+  {
+    "id": "budget-stays-market",
+    "name": "Budget lodges near Main Market and Station",
+    "category": "hotel",
+    "lat": 18.7515,
+    "lng": 73.408,
+    "price_level": 1,
+    "approx_cost_inr": 1500,
+    "scores": {
+      "safety": 4,
+      "cleanliness": 3,
+      "affordability": 4,
+      "rating": 3.6,
+      "accessibility": 5
+    },
+    "tags": ["budget", "walkable", "station"],
+    "description": "Cluster of mid-range and budget hotels, typically Rs 1,000-2,000 per night, walkable to the station and market.",
+    "monsoon_restricted": false,
+    "note": "Book ahead in monsoon and on weekends."
+  },
+  {
+    "id": "fariyas-resort",
+    "name": "Fariyas Resort Lonavala",
+    "category": "hotel",
+    "lat": 18.746,
+    "lng": 73.412,
+    "price_level": 4,
+    "approx_cost_inr": 8000,
+    "scores": {
+      "safety": 5,
+      "cleanliness": 4,
+      "affordability": 1,
+      "rating": 4.2,
+      "accessibility": 4
+    },
+    "tags": ["luxury", "resort", "family"],
+    "description": "Upscale resort for a comfortable stay.",
+    "monsoon_restricted": false,
+    "note": "Premium pricing; 4-5 star stays start around Rs 7,000."
+  },
+  {
+    "id": "radisson-resort",
+    "name": "Radisson Resort and Spa Lonavala",
+    "category": "hotel",
+    "lat": 18.77,
+    "lng": 73.405,
+    "price_level": 4,
+    "approx_cost_inr": 8000,
+    "scores": {
+      "safety": 5,
+      "cleanliness": 3,
+      "affordability": 1,
+      "rating": 4.0,
+      "accessibility": 4
+    },
+    "tags": ["luxury", "resort", "spa"],
+    "description": "Resort and spa; some reviewers flag food quality and hygiene as inconsistent.",
+    "monsoon_restricted": false,
+    "note": "Check recent reviews on food hygiene."
+  },
+  {
+    "id": "risk-nh48-traffic",
+    "name": "Old Mumbai-Pune Highway (Khandala-Lonavala stretch)",
+    "category": "risk",
+    "lat": 18.752,
+    "lng": 73.395,
+    "price_level": 0,
+    "approx_cost_inr": 0,
+    "scores": {
+      "safety": 2,
+      "cleanliness": 3,
+      "affordability": 5,
+      "rating": 3.0,
+      "accessibility": 3
+    },
+    "tags": ["traffic", "ghat", "congestion"],
+    "description": "Ghat road that often jams on weekends and monsoon days; two and three-wheelers must use it as they are barred from the expressway.",
+    "monsoon_restricted": false,
+    "note": "Seed value; verify with citizen reports. Leave early, avoid peak weekend hours."
+  }
+]
